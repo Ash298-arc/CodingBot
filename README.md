@@ -1,3 +1,2 @@
 # CodingBot
-Repo
-First Project
+Resume
